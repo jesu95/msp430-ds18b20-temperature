@@ -1,0 +1,10 @@
+.launches/
+.settings/
+Debug/
+driverlib/
+targetConfigs/
+.ccsproject
+.cproject
+.project
+lnk_msp430fr4133.cmd
+
