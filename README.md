@@ -6,8 +6,8 @@ Note: This is a modified and adapted (for the MSP430R4133) version of the origin
 ### Developed in:
 <p>
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/c-original.svg">
-<img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/msp430.jpeg">
-<img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/code_composer.jpg">
+<img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/msp430.png">
+<img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/ccs.png">
 </p>
 
 ### Authors:
